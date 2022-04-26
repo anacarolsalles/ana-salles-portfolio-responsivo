@@ -102,6 +102,11 @@ margin-top: 20px;
   background-color: #1f0d18 !important;
 }
 
+.gride-skill {
+  margin-top: 30px;
+  margin-left: -25px;
+}
+
 .accordion {
   position: absolute;
   width: 952px;
