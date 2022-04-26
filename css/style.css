@@ -22,6 +22,14 @@ li {
   margin-bottom: 25px;
 }
 
+.svg-image {
+  filter: invert(100%) sepia(0%) saturate(7487%) hue-rotate(255deg) brightness(104%) contrast(105%);
+}
+
+.svg-image:hover {
+  filter: invert(48%) sepia(91%) saturate(348%) hue-rotate(122deg) brightness(100%) contrast(93%);
+}
+
 .h1 {
   font-style: normal;
   font-weight: 700;
